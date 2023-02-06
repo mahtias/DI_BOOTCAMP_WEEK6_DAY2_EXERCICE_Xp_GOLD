@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kernel-mk
+ * @author Adonis Kadjo Mathias 
  */
 public class Exercice3 {
     
@@ -33,7 +33,7 @@ public class Exercice3 {
         }
 
         grossSalary = basicSalary + HRA + DA;
-        System.out.println("Gross Salary : " + grossSalary);
+        System.out.println("Gros Salary : " + grossSalary);
     }
 
     public static void main(String[] args) {

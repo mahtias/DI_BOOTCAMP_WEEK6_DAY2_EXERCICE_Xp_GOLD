@@ -6,7 +6,7 @@ package com.exercicexpgold.exercice2;
 
 /**
  *
- * @author kernel-mk
+ * @authorAdoni kadjo m
  */
 public class Exercice2 {
     
